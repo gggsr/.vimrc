@@ -17,6 +17,7 @@ set nobackup
 set ruler
 set encoding=UTF-8
 set cul
+set magic
 set culopt=number
 set noswapfile
 set nowritebackup
